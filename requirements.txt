@@ -1,3 +1,8 @@
-flask 
-python-dotenv 
-google-generativeai 
+flask
+flask-cors
+google-generativeai
+sqlite-utils
+python-dotenv
+gunicorn   
+requests   
+tqdm    
