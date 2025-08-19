@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
-from core import ask_ai
+from agent.core import ask_ai
+
 from db import save_result
 from datetime import datetime
 import json
